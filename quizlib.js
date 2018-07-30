@@ -617,7 +617,7 @@ function Quizlib(d, f) {
         a.z24 = a.aRC(c, h, i, n, b, e, k, p, a.q91r, m, d);
         a.aRb = {
             preciseScore: c,
-            completed: b,
+            completed: c,
             unanswered: e,
             secs: a.q91r,
             avgtime: m,
