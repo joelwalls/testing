@@ -1,4 +1,5 @@
 function Quizlib(d, f) {
+    console.log(d);
     alert();
     var a = this;
     a.fVx = null;
